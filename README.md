@@ -21,6 +21,9 @@
 
 <br clear="both">
 
+<!-- 
+Quando poi sarò capace e varò del tempo da buttare lo farò
 <img src="https://raw.githubusercontent.com/AlleBerta/AlleBerta/output/snake.svg" alt="Snake animation" />
+--> 
 
 ###
