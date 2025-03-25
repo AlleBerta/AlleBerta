@@ -14,6 +14,8 @@
 <a href="https://instagram.com/alessandro_bertani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alessandro_bertani" height="30" width="40" /></a>
   
 <a href="mailto:alessandro.bertani02@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="alessandro_bertani" height="30" width="40" /></a>
+
+[![My Skills](https://skillicons.dev/icons/Gmail-Light.svg,figma&theme=light)](https://skillicons.dev)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
