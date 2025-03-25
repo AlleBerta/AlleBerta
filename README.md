@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://instagram.com/alessandro_bertani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alessandro_bertani" height="30" width="40" /></a>
   
-<a href="mailto:alessandro.bertani02@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg)" alt="alessandro_bertani" height="30" width="40" /></a>
+<a href="mailto:alessandro.bertani02@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="alessandro_bertani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
