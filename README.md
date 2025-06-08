@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
   Hi, I'm Alessandro Bertani </h1>
-<h3 align="center">Hi, I'm a student and I love do coding!</h3>
+<h3 align="center">I'm a student and I love do coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alleberta&label=Profile%20views&color=0e75b6&style=flat" alt="alleberta" /> </p>
 
@@ -25,7 +25,7 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="28" height="28" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="28" height="28" />
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="28" height="28" />
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<img src="https://www.thunderclient.com/images/thunder-256-v2.png" alt="Thunder-Client" width="28" height="28" />
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
@@ -37,6 +37,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="28" height="28" />
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="28" height="28" />
