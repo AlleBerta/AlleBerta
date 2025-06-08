@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alleberta&label=Profile%20views&color=0e75b6&style=flat" alt="alleberta" /> </p>
 
+![snake gif](https://github.com/AlleBerta/AlleBerta/blob/output/github-snake-dark.svg)
+
+---
+
 # 💫 About Me:
 🌱 I’m currently studying **Computer Technologies Engineering**<br>🔭 I’m currently working on **UrbanBrain**<br>💻 I'm currently working on **web-audit-saas**
 
@@ -59,22 +63,24 @@
 
 <br clear="both">
 
-<!-- 
-Quando poi sarò capace e varò del tempo da buttare lo farò
-<img src="https://raw.githubusercontent.com/AlleBerta/AlleBerta/output/snake.svg" alt="Snake animation" />
---> 
-
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleBerta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlleBerta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<table>
+  <tr>
+    <th>🔝 Most Used Language</th>
+    <th>⭐ Top Contributed Repo</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlleBerta&theme=dark&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=AlleBerta&limit=5&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=AlleBerta&icon=10&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center"> 
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
+</div>
